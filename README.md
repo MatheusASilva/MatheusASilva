@@ -31,7 +31,7 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
-![Astah](https://img.shields.io/badge/-Astah-007ACC?style=for-the-badge&logoWidth=40)
+![Astah Community](https://img.shields.io/badge/-Astah%20Community-007ACC?style=for-the-badge&logoWidth=40)  
 
 ---
 
