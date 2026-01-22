@@ -10,6 +10,8 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens & Backend
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoWidth=40)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
