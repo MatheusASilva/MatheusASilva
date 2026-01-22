@@ -10,16 +10,17 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens & Backend
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
 
 ### 🤖 Inteligência Artificial
 - Conceitos de IA e Machine Learning  
@@ -28,9 +29,9 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 - Criação e gerenciamento de IAs
 
 ### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Astah](https://img.shields.io/badge/-Astah-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
+![Astah](https://img.shields.io/badge/-Astah-007ACC?style=for-the-badge&logoWidth=40)
 
 ---
 
@@ -42,7 +43,7 @@ Projetos desenvolvidos em conjunto com meu, com foco em:
 - Aplicação prática de conceitos de machine learning
 - Criação e desenvolvimento de jogos
 
-[![Grupo_08](https://github.com/Grupo-8-2025)
+[Grupo_08](https://github.com/Grupo-8-2025)
 
 ---
 
