@@ -1,21 +1,50 @@
 # Matheus A. Silva 👋
 
-# Matheus A. Silva
-
-Bem-vindo ao meu perfil! 👋
+Bem-vindo ao meu perfil! 👋  
 
 ## Sobre mim
+Sou técnico em informática formado em Informática pelo CEFET (2023–2025), com grande interesse em **modelagem de sistemas**, **inteligência artificial** e **arquitetura de software**.
 
-Desenvolvedor apaixonado por tecnologia e inovação. Busco constantemente aprender e aplicar novas tecnologias para criar soluções eficientes e escaláveis.
+---
 
 ## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Linguagens & Backend
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🤖 Inteligência Artificial
+- Conceitos de IA e Machine Learning  
+- Uso de IA como apoio no desenvolvimento e aprendizado  
+- Integração de soluções inteligentes em projetos acadêmicos
+- Criação e gerenciamento de IAs
+
+### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Astah](https://img.shields.io/badge/-Astah-007ACC?style=flat-square)
+
+---
+
+## 📚 Projetos Acadêmicos
+Projetos desenvolvidos em conjunto com meu, com foco em:
+- Desenvolvimento de sistemas
+- Arquitetura de software
+- Integração entre backend, banco de dados e frontend
+- Aplicação prática de conceitos de machine learning
+- Criação e desenvolvimento de jogos
+
+[![Grupo_08](https://github.com/Grupo-8-2025)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -24,11 +53,15 @@ Desenvolvedor apaixonado por tecnologia e inovação. Busco constantemente apren
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusASilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatheusASilva/MatheusASilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
 
 ## 📫 Contato
 
