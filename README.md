@@ -9,15 +9,15 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 
 ## 🚀 Tecnologias
 
-### 💻 Linguagens & Backend
+### 💻 Backend
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoWidth=40)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+
+### 🌐 WEB
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40)
-
-### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
 
@@ -25,10 +25,9 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
 
 ### 🤖 Inteligência Artificial
-- Conceitos de IA e Machine Learning  
-- Uso de IA como apoio no desenvolvimento e aprendizado  
-- Integração de soluções inteligentes em projetos acadêmicos
-- Criação e gerenciamento de IAs
+- Processamento de imagens
+- Machine Learning
+- Análise de dados
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
@@ -38,12 +37,35 @@ Sou técnico em informática formado em Informática pelo CEFET (2023–2025), c
 ---
 
 ## 📚 Projetos Acadêmicos
-Projetos desenvolvidos em conjunto com meu, com foco em:
+Projetos desenvolvidos com foco em:
 - Desenvolvimento de sistemas
-- Arquitetura de software
 - Integração entre backend, banco de dados e frontend
-- Aplicação prática de conceitos de machine learning
 - Criação e desenvolvimento de jogos
+- Machine Learning
+
+  ## 📌 Destaques
+
+### 🎮 Donkey Kong Remake (C++ + SFML)
+- Lógicas de movimentação e colisão
+- Estrutura orientada a objetos
+
+### 🤖 Mega Man Remake (Java + LibGDX)
+- Recriação de mecânicas clássicas do MegaMan
+- Sistema de movimentação e interação com o cenário
+- Versão com suporte a multiplayer
+
+### 🧠 IA para Detecção de Tumores Cerebrais (Python + PHP)
+- Processamento de imagens médicas
+- Detecção de padrões relacionados a tumores
+- Dashboard com CRUD completo
+
+### 🛒 E-commerce de Celulares (PHP + MySQL)
+- Integração entre frontend, backend e banco de dados
+- Estrutura de sistema com CRUD completo
+
+### 🎲 Jogo Dots and Boxes (Java + LibGDX)
+- Lógica de jogo de turno
+- Implementação de PvP e PvE
 
 [Grupo_08](https://github.com/Grupo-8-2025)
 
