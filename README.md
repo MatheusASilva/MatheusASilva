@@ -70,7 +70,7 @@ Projetos desenvolvidos com foco em:
 [Grupo_08](https://github.com/Grupo-8-2025)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,7 +79,7 @@ Projetos desenvolvidos com foco em:
 </div>
 
 ---
-
+-->
 ## 🐍 Contribution Snake
 
 <div align="center">
