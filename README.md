@@ -1,98 +1,122 @@
-# Matheus A. Silva 👋
+# Matheus Augusto Silva 👋
 
-Bem-vindo ao meu perfil! 👋  
+Desenvolvedor em formação, técnico em Informática pelo CEFET-MG, com interesse em **desenvolvimento de sistemas**, **backend**, **inteligência artificial** e **visão computacional**.
 
-## Sobre mim
-Sou técnico em informática formado em Informática pelo CEFET (2023–2025), com grande interesse em **modelagem de sistemas**, **inteligência artificial** e **arquitetura de software**.
+Tenho experiência acadêmica no desenvolvimento de aplicações web, jogos, sistemas com banco de dados e modelos de IA aplicados à análise de imagens médicas.
+
+Atualmente, busco evoluir como desenvolvedor e aplicar meus conhecimentos em projetos reais, com foco em soluções bem estruturadas, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
 
 ## 🚀 Tecnologias
 
-### 💻 Backend
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoWidth=40)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+### 🧠 Inteligência Artificial & Dados
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-### 🌐 WEB
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
-
-### 🤖 Inteligência Artificial
+- PyTorch
+- MONAI
 - Processamento de imagens
 - Machine Learning
-- Análise de dados
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
-![Astah Community](https://img.shields.io/badge/-Astah%20Community-007ACC?style=for-the-badge&logoWidth=40)  
 
 ---
 
-## 📚 Projetos Acadêmicos
-Projetos desenvolvidos com foco em:
-- Desenvolvimento de sistemas
-- Integração entre backend, banco de dados e frontend
-- Criação e desenvolvimento de jogos
+### 💻 Backend & Sistemas
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,php,mysql)](https://skillicons.dev)
+
+- Desenvolvimento orientado a objetos
+- Integração com banco de dados
+- Estruturação de sistemas
+
+---
+
+### 🌐 Web & Integração
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+
+- Integração entre frontend e backend
+- Interfaces para visualização de dados
+
+###👨‍💻 Áreas de interesse
+- Backend Development
+- Inteligência Artificial
+- Visão Computacional
 - Machine Learning
+- Modelagem de Sistemas
+- Arquitetura de Software
 
-  ## 📌 Destaques
+---
 
-### 🎮 Donkey Kong Remake (C++ + SFML)
-- Lógicas de movimentação e colisão
-- Estrutura orientada a objetos
+## 📌 Projetos em Destaque
 
-### 🤖 Mega Man Remake (Java + LibGDX)
-- Recriação de mecânicas clássicas do MegaMan
-- Sistema de movimentação e interação com o cenário
-- Versão com suporte a multiplayer
+### 🧠 IA para Detecção de Tumores Cerebrais
+Sistema desenvolvido como Trabalho de Conclusão de Curso no CEFET-MG, com foco na detecção de tumores cerebrais em exames de ressonância magnética 3D.
 
-### 🧠 IA para Detecção de Tumores Cerebrais (Python + PHP)
-- Processamento de imagens médicas
-- Detecção de padrões relacionados a tumores
-- Dashboard com CRUD completo
+**Principais pontos:**
+- Desenvolvimento da IA de detecção de tumores
+- Treinamento de modelo com Python, PyTorch e MONAI
+- Integração com aplicação web em PHP
+- Visualização de exames médicos com Papaya Viewer
+- Dashboard para cadastro, consulta e análise de exames
 
-### 🛒 E-commerce de Celulares (PHP + MySQL)
-- Integração entre frontend, backend e banco de dados
-- Estrutura de sistema com CRUD completo
+**Tecnologias:** Python, PyTorch, MONAI, PHP, Apache, JavaScript
 
-### 🎲 Jogo Dots and Boxes (Java + LibGDX)
-- Lógica de jogo de turno
-- Implementação de PvP e PvE
+---
+
+### 🛒 E-commerce de Celulares
+Sistema web desenvolvido com integração entre frontend, backend e banco de dados.
+
+**Principais pontos:**
+- Cadastro e gerenciamento de produtos
+- CRUD completo
+- Integração com banco de dados MySQL
+- Estruturação de páginas com HTML, CSS, PHP e SQL
+
+**Tecnologias:** PHP, MySQL, HTML, CSS
+
+---
+
+### 🎮 Donkey Kong Remake
+Remake acadêmico desenvolvido em C++ com SFML, focado em lógica de jogo, colisões e estrutura orientada a objetos.
+
+**Tecnologias:** C++, SFML
+
+---
+
+### 🤖 Mega Man Remake
+Projeto acadêmico desenvolvido em Java com LibGDX, recriando mecânicas clássicas de movimentação, interação com cenário e suporte a multiplayer.
+
+**Tecnologias:** Java, LibGDX
+
+---
+
+### 🎲 Dots and Boxes
+Jogo de turnos desenvolvido em Java com LibGDX, com modos PvP e PvE.
+
+**Tecnologias:** Java, LibGDX
+
+---
+
+## 📚 Organização de Projetos
+
+Alguns projetos acadêmicos também estão disponíveis na organização:
 
 [Grupo_08](https://github.com/Grupo-8-2025)
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusASilva&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusASilva&layout=compact&theme=dark"/>
-</div>
-
----
--->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusASilva/MatheusASilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusASilva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusASilva&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=false"/>
 </div>
 
 ---
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusASilva)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-de-carvalho-silva-32433a325/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusaugusto3500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-de-carvalho-silva-32433a325/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusaugusto3500@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusASilva)
 
 ---
 
